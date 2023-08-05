@@ -11,7 +11,7 @@ async function main() {
 
   const signer = new ethers.Wallet(privateKey, provider);
 
-  const contractAddress = "0x718730E802DeFf7A00784a5C20920BDfF9945583";
+  const contractAddress = "0x08b7f3BFB7e7acA78156d53d7499aAA6c52E1FF6";
 
   const IndianNFT = await ethers.getContractFactory("police_cop", signer);
   const contract = await IndianNFT.attach(contractAddress);
