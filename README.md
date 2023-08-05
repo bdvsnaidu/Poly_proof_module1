@@ -18,7 +18,7 @@ In this module, we will be creating an NFT collection using the Lexica (AI-gener
 
 # Video walkthrough
 
-https://www.loom.com/share/f30269a598a242cc912ae749660fb707?sid=c3083f17-b65e-4e27-a31f-7906f7963987
+https://www.loom.com/share/1d3956b9bc984f8ea57888c85e11e575?sid=a7491d49-734d-4fc1-bcdf-4d6c377d22bf
 
 
 # Authors
