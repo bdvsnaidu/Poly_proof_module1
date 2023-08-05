@@ -14,7 +14,7 @@ In this module, we will be creating an NFT collection using the Lexica (AI-gener
 4) We run the  "npx hardhat run scripts/Mint.js --network goerli" to mint the tokens on the goerli network and transfer them to the polygon network.
 5) We run the  "npx hardhat run scripts/depositTransfer.js --network goerli" to validate the token address, and wallet address to connect to the polygon network.
 6) We use polygonscan Mumbai to check the transaction details and the balance.
-7) The balance will be eftched successfully and will be printed on the console as Indian NFT balance is 5 tokens.
+7) The balance will be fetched successfully and will be printed on the console as Indian NFT balance is 5 tokens.
 
 # Video walkthrough
 
